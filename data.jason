@@ -1,0 +1,111 @@
+{
+	"users":[
+
+		{
+			"name":"e12001",
+			"password" : "e12001",
+			"access_level" : "student"
+		},
+		{
+			"name":"e12002",
+			"password" : "e12002",
+			"access_level" : "student"
+		},
+		{
+			"name":"e12003",
+			"password" : "e12003",
+			"access_level" : "student"
+		},
+		{
+			"name":"e12004",
+			"password" : "e12004",
+			"access_level" : "student"
+		},
+		{
+			"name":"e12005",
+			"password" : "e12005",
+			"access_level" :"student"
+		},
+		{
+			"name":"staff1",
+			"password" : "staff1",
+			"access_level" : "staff"
+		},
+		{
+			"name":"staff2",
+			"password" : "staff2",
+			"access_level" : "staff"
+		},
+		{
+			"name":"staff3",
+			"password" : "staff3",
+			"access_level" : "staff"
+		},
+		{
+			"name":"staff4",
+			"password" : "staff4",
+			"access_level" : "staff"
+		},
+		{
+			"name":"staff5",
+			"password" : "staff5",
+			"access_level" : "staff"
+		},
+		{
+			"name":"admin1",
+			"password" : "admin1",
+			"access_level" : "admin"
+		},
+		{
+			"name":"admin2",
+			"password" : "admin2",
+			"access_level" : "admin"
+		},
+		{
+			"name":"admin3",
+			"password" : "admin3",
+			"access_level" : "admin"
+		},
+		{
+			"name":"admin4",
+			"password" : "admin4",
+			"access_level" : "admin"
+		},
+		{
+			"name":"admin5",
+			"password" : "admin5",
+			"access_level" : "admin"
+		},
+		{
+			"name":"company1",
+			"password" : "company1",
+			"access_level" : "company"
+		},
+		{
+			"name":"company2",
+			"password" : "company2",
+			"access_level" : "company"
+		},
+		{
+			"name":"company3",
+			"password" : "company3",
+			"access_level" : "company"
+		},
+		{
+			"name":"company4",
+			"password" : "company4",
+			"access_level" : "company"
+		},
+		{
+			"name":"company5",
+			"password" : "company5",
+			"access_level" : "company"
+		},
+		{
+			"name":"company6",
+			"password" : "company6",
+			"access_level" : "company"
+		}
+	]
+
+}
